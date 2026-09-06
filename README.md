@@ -1,4 +1,4 @@
-## Hello there! I’m Miller 👋
+# Hello there! I’m Miller 👋
 
 I'm an Electrical Engineering student focused on low-level programming, embedded systems, and tool development.
 
@@ -19,7 +19,7 @@ Recently, I’ve been focusing my studies toward embedded systems and building t
 
 Here are some projects you might like:
  
-# My own game 🎮
+## My own game 🎮
 
 My own open-source RPG game, built from the ground up using a small set of libraries for graphics, file management, and other systems.
 
@@ -32,7 +32,7 @@ My own open-source RPG game, built from the ground up using a small set of libra
 
 **Visit project:** [RPG Game](https://github.com/Lucas139Miller/RPG-game)
 
-# Redstone Plating Addon 🌳
+## Redstone Plating Addon 🌳
 
 A Minecraft addon that allows players to automate planting using redstone.
 
