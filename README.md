@@ -32,7 +32,7 @@ My own open-source RPG game, built from the ground up using a small set of libra
 
 **Visit project:** [RPG Game](https://github.com/Lucas139Miller/RPG-game)
 
-## Redstone Plating Addon 🌳
+## Redstone Planting Addon 🌳
 
 A Minecraft addon that allows players to automate planting using redstone.
 
